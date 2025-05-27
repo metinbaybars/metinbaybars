@@ -3,8 +3,9 @@
 
 <img align="right" alt="Coding" width="180" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=790b7611e1qthk1yel32uexefek4t3bdkpkd5b1z28mc2a1x&ep=v1_internal_gif_by_id&ct=s">
 
-- 🌱 I’m currently learning **C# and React**  
-- 🛠️ I enjoy working with **JavaScript**, **Firebase**, and **Flutter**  
+- 🌱 I’m currently learning **C#**  
+- 🛠️ I enjoy working with **JavaScript**, **React**, **Firebase**, and **Flutter**  
+- 💼 I'm currently working with **ReactJS**, **SAP**, **SQL**, and **Excel** in an ERP environment  
 - 📫 You can reach me at: **arslanmetinbaybars@gmail.com**
 
 ---

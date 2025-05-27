@@ -11,7 +11,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="[https://linkedin.com/in/metin-baybars-arslan](https://www.linkedin.com/in/metin-baybars-arslan-a0b583233/)" target="blank">
+  <a href="https://www.linkedin.com/in/metin-baybars-arslan-a0b583233/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
     linkedin.com/in/metin-baybars-arslan
   </a>
